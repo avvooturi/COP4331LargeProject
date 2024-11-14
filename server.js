@@ -30,7 +30,7 @@ app.use((req, res, next) =>
   next();
 });
 
-//lets us know server is running on given port
+//Lets us know server is running on given port
 //app.listen(5001); // start Node + Express server on port 5000
 app.listen(5079, () => {
   console.log("Server is running on port 5079");
