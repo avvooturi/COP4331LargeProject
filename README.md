@@ -1,6 +1,6 @@
 Diorie - Nutrition Plan App
-Team Members and Roles:
 
+Team Members and Roles:
 Arjun Vooturi: Project Manager, Flutter |
 Dylan Katchen: API |
 Noah Bethel: API |
